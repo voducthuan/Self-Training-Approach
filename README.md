@@ -1,5 +1,6 @@
 # SelfTraining
-Self-training Algorithm
+Self-training Algorithm for Relation Extraction
+
 We mainly build clause-based framework for information extraction. The framework focuses on two important challenges in information extraction 1) Open Information Extraction and 2) Relation Extraction. We use the English clause structure and clause types in an effort to generate propositions that can be deemed as extractable relations. Moreover, we propose refinements to the grammatical structure of syntactic and dependency parsing that help reduce the number of incoherent and uninformative extractions from clauses.
 
 Publications:
